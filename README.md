@@ -40,6 +40,7 @@ Technologies: matplotlib, seaborn, random forest, XGBoost, etc.
 I'm always open to new opportunities, collaborations, and discussions around data science. If you're interested in connecting or learning more about my work, feel free to reach out!
 
 LinkedIn: https://www.linkedin.com/in/jason-ronald/
+
 Email: jasonronaldbsc@gmail.com
 
 Thank you for visiting my GitHub! Looking forward to connecting and exploring the exciting world of data together!
